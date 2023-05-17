@@ -1,0 +1,9 @@
+# Exclusions
+output
+data
+archive
+correspondence
+input
+*.log
+*.*~
+
